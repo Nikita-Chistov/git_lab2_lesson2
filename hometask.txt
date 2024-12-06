@@ -1,1 +1,9 @@
 Присутствую символы "0", обозначающиее пуговицы.
+
+Коммиты - 6
+1.hometask
+2.Merge branch 'refs/heads/hat'
+3.fix readme
+4.README added
+5.heat added
+6.init
